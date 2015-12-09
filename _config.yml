@@ -10,10 +10,10 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
+title:            'James-holman-github-io'
+tagline:          '1st post'
 description:      'A Sample blog using Jekyll Metro'
-url:              'http://192.168.1.11:4000'
+url:              'http://jpgibb7holman.github.io'
 baseurl:          ''
 
 # Navigation
