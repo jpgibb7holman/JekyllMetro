@@ -16,91 +16,81 @@ BINARY CODE
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td>
-NORMAL
-BINARY
-1
-1
-2
-10
-3
-11
-4
-100
-5
-101
-6
-110
-7
-111
-8
-1000
-9
-1001
-10
-1010
+    <td>1                                        =</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>2                                        =</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>3                                        =</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>4                                        =</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>5                                        =</td>
+    <td>101</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>6                                        =</td>
+    <td>110</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>7                                        =
 </td>
+    <td>111</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>8                                        =</td>
+    <td>1000</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>9                                        =</td>
+    <td>1001</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>10                                      =</td>
+    <td>1010</td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td></td>
     <td></td>
     <td></td>
