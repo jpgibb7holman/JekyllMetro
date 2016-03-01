@@ -1,7 +1,7 @@
 # Configurations
-markdown: kramdown
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
-highlighter: pygments
+# markdown: kramdown
+# markdown_ext:  markdown,mkdown,mkdn,mkd,md
+# highlighter: pygments
 
 # Needed for backward compatibility
 gems: [jekyll-paginate]
@@ -10,9 +10,9 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'James's Blog'
+title:            "James's Blog"
 tagline:          
-description:      'A blog for IT work at DCGS'
+description:      "A blog for IT work at DCGS"
 
 # Navigation
 navigation:
@@ -31,7 +31,7 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'James'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
