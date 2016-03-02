@@ -5,7 +5,7 @@ description: About Me page of James
 theme: purple
 ---
 
-I am a student at DCGS who has created a blog for IT work. I created it using Github and the AddON Gabriel and it has been quite difficult but I am quite pleased with my work. I am a student who likes rugby, swimming, cycling, football and running. I also enjoy walking my dog and history. 
+I am a student at DCGS who has created a blog for IT work. I created it using Github and the AddON Gabriel and it has been quite difficult but I am  pleased with my work. I am a student who likes rugby, swimming, cycling, football and running. I also enjoy walking my dog and history. 
 
 
 
