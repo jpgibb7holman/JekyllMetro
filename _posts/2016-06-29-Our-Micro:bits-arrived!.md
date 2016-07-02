@@ -12,3 +12,7 @@ Our Micro:bits arrived!
 
       Once we had finished this, we startted talking with our teacher about common uses of social media. We then started talking about sexting and revenge porn. Sexting is when you send an intimate photo of yourself to someone. Revenge porn is when your ex posta one of the intimate photos/videos on social media or pornagraphic websites.
 
+[This is a link to a news article about sexting](http://www.bbc.co.uk/programmes/articles/5VPkfNx0yWSW337c9tp49cr/sexting)
+
+[This is a link to a news article about revenge porn ](http://www.telegraph.co.uk/women/womens-life/10743923/Revenge-porn-is-on-the-rise-in-the-UK.html)
+
