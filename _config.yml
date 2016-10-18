@@ -2,7 +2,7 @@
 
 # Configurations
 
-markdown: 
+markdown: 'kramdown'
 
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
@@ -23,8 +23,7 @@ permalink:        /blog/:year/:month/:day/:title
 
 
 # Setup
-
-title:            'James's blog'
+title:            'My blog'
 
 description:      'A blog made for IT at school'
 
