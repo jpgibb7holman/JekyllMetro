@@ -8,19 +8,19 @@ description: "A blog made for IT at school"
 url: "jpgibb7holman.github.io"
 baseurl:
 # Navigation
-navigation:
-- text: About
-  url: /about/
-- text: Resume
-  url: /resume/
-- text: Blog
-  url: /blog/
-- text: Tags
-  url: /tags/
-- text: Archive
-  url: /archive/
-- text: Search
-  url: /search/
+#navigation:
+#- text: About
+#  url: /about/
+#- text: Resume
+#  url: /resume/
+#- text: Blog
+#  url: /blog/
+#- text: Tags
+#  url: /tags/
+#- text: Archive
+#  url: /archive/
+#- text: Search
+#  url: /search/
 # Author Details
 author: "James Gibb"
 # Blog Configurations
