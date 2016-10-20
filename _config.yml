@@ -6,7 +6,6 @@ permalink: /blog/:year/:month/:day/:title
 title: "My blog"
 description: "A blog made for IT at school"
 url: "jpgibb7holman.github.io"
-baseurl:
 # Navigation
 #navigation:
 #- text: About
